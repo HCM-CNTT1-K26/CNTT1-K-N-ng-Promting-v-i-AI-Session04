@@ -73,6 +73,3 @@ Chi tiết tính toán:
 - Vì 400.000đ < 500.000đ nên áp dụng phí ship 30.000đ.
 - Tổng cộng: 400.000đ + 30.000đ = 430.000đ.
 Tổng thanh toán: 430.000 VNĐ (Tạm tính phần hàng hợp lệ)
-----------------------
-
-```
